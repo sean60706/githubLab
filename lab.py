@@ -1,5 +1,5 @@
 
 
-name = "Sean"
+name = "Eric"
 
 print("hello "+ name)
